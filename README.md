@@ -1,5 +1,5 @@
 ## SwiftUI iOS Apps “Recognize text, drawing with Apple Pencil” in Tandem with AI Gemini 2.5 Pro Experimental
- <img src="https://github.com/BestKora/SearchableMapGemini2_5/blob/a271460a4856f17822e41df09b13bc852973ee51/SearchableMap.png" width="750">
+ <img src="https://github.com/BestKora/RecognozeTextGemini2_5/blob/f2ca301028415accdee0bc9d7ce2a0321a288309/RecognizeTextGemini2_5.gif" width="750">
 
  I teamed up with Google's brilliant AI, Gemini 2.5 Pro Experimental, to create an app that works like this:
  
