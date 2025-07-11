@@ -2,6 +2,7 @@
  <img src="https://github.com/BestKora/RecognozeTextGemini2_5/blob/f2ca301028415accdee0bc9d7ce2a0321a288309/RecognizeTextGemini2_5.gif" width="350">
 
  I teamed up with Google's brilliant AI, Gemini 2.5 Pro Experimental, to create this app.
+ 
 Apple Pencil has transformed the iPad into a powerful tool for note-taking and creative expression. But what about turning handwritten scribbles into usable digital text? For SwiftUI developers, Apple’s Vision framework offers a robust on-device solution for optical character recognition (OCR) that integrates seamlessly with PencilKit to bring handwriting recognition to life.
 
 So PencilKit is for handwriting input, Vision is for recognition, and SwiftUI is for the UI.
